@@ -13,6 +13,9 @@
 
 <b>I share my experience with others on stackoverflow:</b>
 <p>👉https://stackoverflow.com/users/19121624/moonar</p>
+<p></p>
+<b>I joined codewars to train my self in more absract tasks:</b>
+<p>👉https://www.codewars.com/users/Moonar</p>
 <h3 align="center">The main purpose of my public Github is to create a portfolio and publish my progress.</h3>
 <h2></h2>
 <h2 align="center">I develop my portfolio week after week<p></p>
