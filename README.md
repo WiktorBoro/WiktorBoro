@@ -34,14 +34,14 @@
 
 <h2>Career plans</h2>
 <p align="justify">By the next few years I want to master my Python skills</p>
-<p align="justify">I'm interested in ML and AI, maybe in the more distant future I'll try my self in this field.</p>
+<p align="justify">I'm interested in ML and AI, maybe in the more distant future I'll try myself in those fields.</p>
 
 <h2>Experieces from SEO work</h2>
 <li>Analising a lot of data - server log, GA, GSC, crawl data, total visibility of the Clients website and their competitors, link profile
 <li>Creating full SEO audit with detal technical SEO
 <li>Plannig and implementing comprehensive SEO strategies, combining all other departments
 <li>I'm responsible for budget of almost 35k dolar/month, with an average contract for 7k dolar/month
-<li>Running a cyclical meeting with Clients, online and face-to-face whlie business trips
+<li>Running cyclical meetings with Clients, both online and face to face
 
 
 <h2></h2>
