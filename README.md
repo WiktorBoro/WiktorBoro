@@ -3,13 +3,11 @@
 <h2 align="center">About me</h2>
 <p align="justify">Hi my name it's Wiktor, I'm a Senior SEO Specialist with 3+ years of experience.</p>
 
-<p align="justify">I have been working with Python for over a year. I went from 0 to 'hero' and I easly using it in my daily work.</p>
+<p align="justify">I've been working with python for over a year. I went "from zero to hero" and now I'm able to use it in my work in a convenient way.</p>
 
-<p align="justify">I have been a self taught Python for over a year, it is a language that I use to automate my work and solve real problems encountered on a daily basis.</p>
+<p align="justify">Generally, I use it to automate the mundane part of my everyday tasks and solve problems encountered on a daily basis.</p>
 
-<p align="justify">Although SEO allowed me to learn programming by solving real problems and creating software to improve everyday implementation, Python is still just an add-on in it.</p>
-
-<b>I want be full time Python developer</b>
+<p align="justify">Although I have been able to use Python up to some extent in my previous job, <b>I WANT TO BECOME A FULL TIME PYTHON DEVELOPER.</b></p>
 
 <b>I share my experience with others on stackoverflow:</b>
 <p>👉https://stackoverflow.com/users/19121624/moonar</p>
@@ -36,10 +34,10 @@
 <p align="justify">By the next few years I want to master my Python skills</p>
 <p align="justify">I'm interested in ML and AI, maybe in the more distant future I'll try myself in those fields.</p>
 
-<h2>Experieces from SEO work</h2>
+<h2>SEO experience:</h2>
 <li>Analising a lot of data - server log, GA, GSC, crawl data, total visibility of the Clients website and their competitors, link profile
 <li>Creating full SEO audit with detal technical SEO
-<li>Plannig and implementing comprehensive SEO strategies, combining all other departments
+<li>Planning and implementing comprehensive SEO strategies, combining all other departments
 <li>I'm responsible for budget of almost 35k dolar/month, with an average contract for 7k dolar/month
 <li>Running cyclical meetings with Clients, both online and face to face
 
