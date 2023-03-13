@@ -20,8 +20,7 @@
 <h2 align="center">I develop my portfolio week after week<p></p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WiktorBoro&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WiktorBoro)](https://git.io/streak-stats)
 
 </h2>
 
