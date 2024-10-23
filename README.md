@@ -9,6 +9,9 @@
 
 <p align="justify">Although I have been able to use Python up to some extent in my previous job, <b>I WANT TO BECOME A FULL TIME PYTHON DEVELOPER.</b></p>
 
+<b>Check out my new repository</b>
+<p>👉https://github.com/WiktorBoro/health-check-slack</p>
+<p></p>
 <b>I share my experience with others on stackoverflow:</b>
 <p>👉https://stackoverflow.com/users/19121624/moonar</p>
 <p></p>
