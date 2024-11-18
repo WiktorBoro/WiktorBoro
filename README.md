@@ -1,4 +1,4 @@
-👉https://github.com/WiktorBoro/health-check-slack
+👉[https://github.com/WiktorBoro/health-check-slack](https://github.com/WiktorBoro/health-checker-slack)
 
 <h1 id="header" align="center">Hello world🖥️</h1>
 <img align="left" href="https://www.youtube.com/watch?v=OLi-oP3-4MI" src="https://user-images.githubusercontent.com/105320026/170819392-52af9cc6-eec4-4af4-a124-eb370f75fdfd.png" width="30%">
@@ -12,7 +12,7 @@
 <p align="justify">Although I have been able to use Python up to some extent in my previous job, <b>I WANT TO BECOME A FULL TIME PYTHON DEVELOPER.</b></p>
 
 <b>Check out my new repository</b>
-<p>👉https://github.com/WiktorBoro/health-check-slack</p>
+<p>👉[https://github.com/WiktorBoro/health-check-slack](https://github.com/WiktorBoro/health-checker-slack)</p>
 <p></p>
 <b>I share my experience with others on stackoverflow:</b>
 <p>👉https://stackoverflow.com/users/19121624/moonar</p>
